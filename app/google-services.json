@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13160954918",
+    "project_id": "vta-demo-1",
+    "storage_bucket": "vta-demo-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13160954918:android:5705c8d0d5fc1dc1ca7ae7",
+        "android_client_info": {
+          "package_name": "com.example.vtademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13160954918-6o6r0j1179kth608r1oetj1chiqhpdij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKi5vAVi56rLkNKPyMPnncO53KgtUJitA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13160954918-6o6r0j1179kth608r1oetj1chiqhpdij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
